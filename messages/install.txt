@@ -1,0 +1,11 @@
+# Ra Spring Colour Scheme
+
+Thanks for checking out this theme, based on the syntax highlighting found in the official [Ra Spring VSCode](https://github.com/rahmanyerli/ra-spring). I hope you enjoy using it!
+
+I've done my best to cover what I consider to be the common syntaxes for PHP, HTML/Blade, JavaScript, CSS/SASS/LESS, Python, YML and Markdown.
+
+If you have any suggestions for improvement, feel free to open an issue or pull request.
+
+Twitter: @vbasky
+GitHub Repo: https://github.com/vbasky/RaSpring.git
+GitHub Issues: https://github.com/vbasky/RaSpring/issues
