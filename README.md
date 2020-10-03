@@ -70,4 +70,4 @@ This colour scheme ought to work with any language in Sublime Text, it has been 
 
 ## About
 
-Created by [Vikram Bhaskaran](https://twitter.com/vbasky). Copyright 2020. MIT Licensed.
+Created by [Vikram Bhaskaran](https://twitter.com/vikrambhaskar). Copyright 2020. MIT Licensed.
